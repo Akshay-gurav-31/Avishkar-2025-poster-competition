@@ -29,11 +29,12 @@ AI-powered platform targeting Indian population and local health datasets to mak
 ## Tech Stack
 
 ```
-Backend: Python, TensorFlow, PyTorch, Opencv, deep learning
-Frontend: Html css j.s
+Backend: Python, TensorFlow, PyTorch, OpenCV, Deep Learning
+Frontend: HTML, CSS, JavaScript
 Database: PostgreSQL
 Deployment: Vercel, Render
 ```
+
 ---
 
 **Avishkar 2025 - College-Level Project**
