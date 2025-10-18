@@ -1,6 +1,6 @@
 # MediCynth
 
-![MediCynth Poster](images/poster.png)
+![MediCynth Poster](images/Medicynth.png)
 
 ## 🏆 Avishkar 2025
 **Shortlisted in the Internal College-Level Round**
